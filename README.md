@@ -12,4 +12,4 @@ A list of the languages, libraries, and packages I have used regularly throughou
 - **Frameworks/Libraries:** Pandas, NumPy, PyTorch, TensorFlow, Matplotlib, R Shiny, R Lubridate, Seaborn, Scikit-learn, Yellowbrick
 - **Data Visualization Tools:** Microsoft Power BI, Tableau
 - **Databases:** SQL, MySQL, MySQL Workbench, Amazon Redshift
-- **Tools:** Git, VS Code, Jupyter Notebook
+- **Coding Tools and Version Control:** Github, VS Code, Jupyter Notebook
